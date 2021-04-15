@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gxkXRPt4wdBaoSXRwtF4V134xl9ATkH5t4h7StEtj/QeW2R0vUmA3Ji6QSBdGYUrR1+q0hQJgjcwA+1lUzuhqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Deekshi\\Desktop\\AuthMfpe\\MFPE\\PackagingAndDelivery\\PackagingAndDelivery\\PackagingAndDelivery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deekshi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
